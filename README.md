@@ -35,7 +35,7 @@ So we need to figure out how to exactly get the game set up and below is how we 
 
 ## How It Works
 - The game window is set up using the Turtle module.
-- The player can move their character up using the "Up" arrow key.
+- The player can move their character up using the "W" arrow key.
 - Cars are generated and move from the right side of the screen to the left.
 - Collision detection is used to determine if the player character collides with any cars.
 - If the player reaches the other side safely, the level increases, making the game more challenging.
